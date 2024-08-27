@@ -24,7 +24,7 @@ Usners should be able to:
 
 ### Screenshot
 
-![Screenshot](Screenshot_stats_preview.png)
+![Screenshot](screenshot_stats_preview.png)
 
 
 ### Links
